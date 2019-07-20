@@ -1,0 +1,31 @@
+{
+  "name": "@harryhope/eslint-config-hh",
+  "version": "1.0.0",
+  "description": "An eslint configuration for the style of javascript I like to write",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harryhope/eslint-config-hh.git"
+  },
+  "keywords": [
+    "eslint",
+    "standard"
+  ],
+  "author": "Harry Hope",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harryhope/eslint-config-hh/issues"
+  },
+  "homepage": "https://github.com/harryhope/eslint-config-hh#readme",
+  "peerDependencies": {
+    "eslint": ">=6.0.1",
+    "eslint-config-standard": "^13.0.1",
+    "eslint-plugin-import": ">=2.18.0",
+    "eslint-plugin-node": ">=9.1.0",
+    "eslint-plugin-promise": ">=4.2.1",
+    "eslint-plugin-standard": ">=4.0.0"
+  },
+}
